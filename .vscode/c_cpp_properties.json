@@ -11,9 +11,9 @@
                 "-o",
                 "${workspaceFolder}\\NetScanner.exe",
                 "-I",
-                "C:\\Users\\fahad\\Downloads\\npcap-sdk-1.13\\Include",
+                "C:\\Users\\Fahad\\Downloads\\npcap-sdk-1.13\\Include",
                 "-L",
-                "C:\\Users\\fahad\\Downloads\\npcap-sdk-1.13\\Lib",
+                "C:\\Users\\Fahad\\Downloads\\npcap-sdk-1.13\\Lib",
                 "-lwpcap",
                 "-lws2_32"
             ],
@@ -24,3 +24,4 @@
         }
     ]
 }
+
